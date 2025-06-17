@@ -10,7 +10,7 @@ import requests
 
 # === Setup Model Directory and ZIP Details ===
 MODEL_DIR = "models"
-ZIP_URL = "https://github.com/sanjanatanna/phishing-detector/releases/download/v1.0/model_files.zip"
+ZIP_URL = "https://github.com/sanjanatanna/phishing-detector/releases/download/v1/Archive.zip"
 ZIP_PATH = os.path.join(MODEL_DIR, "model_files.zip")
 
 os.makedirs(MODEL_DIR, exist_ok=True)
