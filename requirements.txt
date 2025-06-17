@@ -1,7 +1,11 @@
+fastapi
+uvicorn[standard]
+scikit-learn
 pandas
 numpy
-scikit-learn
+joblib
 nltk
-flask
+flask  # if needed
 requests
 beautifulsoup4
+
